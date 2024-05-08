@@ -4,3 +4,5 @@
 4.Game Development.
 5.Desktop Application Development.
 6.Web APIs and Intergration.
+7.Web Extensions Development.
+8.Client side scripting.
